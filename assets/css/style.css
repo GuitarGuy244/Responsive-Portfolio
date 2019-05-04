@@ -219,7 +219,7 @@ input[type=submit] {
 
 @media only screen and (max-width: 768px) {
   /* For tablets phones: */
-  [class*="col-"] {
+  [class*="container"] {
     width: 100%;
   }
 }
