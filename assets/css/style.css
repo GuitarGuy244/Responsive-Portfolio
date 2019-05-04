@@ -219,7 +219,7 @@ input[type=submit] {
 
 @media only screen and (max-width: 768px) 
 {
-  header
+  #masthead
   /* For tablets phones: */
   {
     width: 100%;
