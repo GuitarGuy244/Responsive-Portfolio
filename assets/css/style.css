@@ -218,8 +218,16 @@ input[type=submit] {
 
 @media only screen and (max-width: 768px) 
 {
-  #masthead
   /* For tablets phones: */
+  #masthead
+  {
+    width: 100%;
+  }
+  #logo
+  {
+    width: 100%;
+  }
+  nav
   {
     width: 100%;
   }
@@ -227,9 +235,10 @@ input[type=submit] {
 
 @media only screen and (max-width: 600px) 
 {
+  /* For phones: */
   #masthead
-  /* For tablets phones: */
   {
     width: 100%;
   }
+  
 }
